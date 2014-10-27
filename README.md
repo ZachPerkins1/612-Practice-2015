@@ -5,3 +5,5 @@ This is mostly for attendance
 
 Authors:
 Zack Alfakir
+David Fiumano
+Champ Dietzel
